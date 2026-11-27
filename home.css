@@ -21,8 +21,12 @@ button, input { font: inherit; }
 .topbar { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: 20px; min-height: 72px; padding: 0 5.5vw; border-bottom: 1px solid rgba(232,229,223,.85); background: rgba(251,250,247,.9); backdrop-filter: blur(18px); }
 .crumbs { display: flex; align-items: center; gap: 10px; color: #a0a3ad; font-size: 12px; white-space: nowrap; }
 .topbar-note { display: inline-flex; align-items: center; margin-left: auto; color: #817d77; font-size: 10px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
-.crumbs span:last-child { color: var(--ink); font-weight: 600; }
+.crumb-link { color: #a0a3ad; text-decoration: none; font-weight: 500; border-radius: 6px; padding: 3px 2px; transition: color .2s ease; }
+.crumb-link:hover { color: var(--ink); }
+.crumb-link.is-current { color: var(--ink); font-weight: 700; }
 .crumb-separator { color: #cac7c0; }
+.crumb-extra { color: var(--ink); font-weight: 600; }
+.crumb-extra:not([hidden])::before { content: "/"; margin-right: 10px; color: #cac7c0; font-weight: 400; }
 .search-box { display: flex; align-items: center; gap: 8px; width: min(360px, 42vw); height: 38px; margin-left: auto; padding: 0 11px; border: 1px solid var(--line); border-radius: 9px; color: #a0a3ad; background: #fff; }
 .search-box input { min-width: 0; flex: 1; border: 0; outline: 0; color: var(--ink); background: transparent; font-size: 12px; }
 .search-box kbd { padding: 3px 5px; border: 1px solid var(--line); border-radius: 4px; color: #aaa7a0; background: #faf9f6; font-size: 10px; }

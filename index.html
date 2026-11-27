@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#11131a" />
     <title>AIGC 创作空间</title>
-    <link rel="stylesheet" href="styles.css?v=20261127-nav" />
-    <link id="standalone-home-style" rel="stylesheet" href="home.css?v=20261127-home" disabled />
+    <link rel="stylesheet" href="styles.css?v=20261127-gallery" />
+    <link id="standalone-home-style" rel="stylesheet" href="home.css?v=20261127-gallery" disabled />
   </head>
   <body>
     <div class="app-shell">
@@ -26,7 +26,7 @@
       <main class="main-content">
         <header class="topbar">
           <button id="menu-toggle" class="icon-button" aria-label="打开导航">☰</button>
-          <div class="crumbs"><span>创作空间</span><span class="crumb-separator">/</span><span id="crumb-current">首页</span></div>
+          <nav class="crumbs" aria-label="页面导航"><span>创作空间</span><span class="crumb-separator">/</span><a class="crumb-link is-current" id="crumb-home" href="#home">首页</a><span class="crumb-separator">/</span><a class="crumb-link" id="crumb-gallery" href="#gallery">画廊</a><span class="crumb-extra" id="crumb-extra" hidden></span></nav>
           <label class="search-box" aria-label="搜索创作内容">
             <span>⌕</span>
             <input id="search-input" type="search" placeholder="搜索标题、方法或正文…" />
@@ -37,6 +37,24 @@
       </main>
     </div>
     <div id="toast" class="toast" role="status"></div>
-    <script src="app.js?v=20261127-home"></script>
+    <div id="gallery-lightbox" class="gallery-lightbox" hidden>
+      <div class="gallery-lightbox-backdrop" data-gallery-close="true"></div>
+      <div class="gallery-lightbox-panel" role="dialog" aria-modal="true" aria-labelledby="gallery-dialog-title">
+        <button type="button" class="gallery-lightbox-close" data-gallery-close="true" aria-label="关闭">×</button>
+        <div class="gallery-lightbox-media"><img id="gallery-lb-image" alt="画廊作品" /></div>
+        <div class="gallery-lightbox-meta">
+          <p class="gallery-kicker" id="gallery-dialog-title">作品详情</p>
+          <div class="gallery-field">
+            <div class="gallery-field-head"><span>提示词</span><button type="button" class="gallery-copy" data-copy-field="prompt">复制</button></div>
+            <pre id="gallery-lb-prompt"></pre>
+          </div>
+          <div class="gallery-field">
+            <div class="gallery-field-head"><span>风格码</span><button type="button" class="gallery-copy" data-copy-field="style">复制</button></div>
+            <pre id="gallery-lb-style"></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="app.js?v=20261127-gallery"></script>
   </body>
 </html>
