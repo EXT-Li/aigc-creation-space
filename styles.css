@@ -374,12 +374,8 @@ button, input { font: inherit; }
 }
 
 
-/* The integrated site uses the exact standalone homepage canvas on the home route. */
-body.home-mode .sidebar,
-body.home-mode .topbar {
-  display: none;
-}
+/* The home canvas stays inside the same site shell and navigation system. */
 body.home-mode .main-content {
-  width: 100%;
-  margin-left: 0;
+  width: calc(100% - 276px);
+  margin-left: 276px;
 }
