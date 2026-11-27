@@ -3,152 +3,62 @@
     {
       "id": "g01",
       "image": "media/gallery/g01.webp",
-      "prompt": "minimalist photography, aerial shot by Jonpaul Douglass, a man is lost in a giant maze, set a scene of giant maze, with intricate structure, white mist surrounded, evoking a feeling of magnificent unknown, shot by Fuji Kodachriome 64",
-      "styleCode": "--sref 3799888424"
+      "prompt": "A graceful Japanese geisha standing on a rugged mountain ridge, gazing toward a colossal sacred mountain crowned by a single ancient cherry blossom tree swaying dramatically in the wind, flowing silk kimono and long hair dancing in the powerful breeze, delicate pink petals carried through the air, mist drifting across the cliffs, epic scale, tranquil yet majestic atmosphere, cinematic composition, ultra-detailed, masterpiece, realistic fabric movement, soft natural lighting, atmospheric perspective, highly detailed landscape, Japanese fantasy aesthetic",
+      "styleCode": "--sref 39022721"
     },
     {
       "id": "g02",
       "image": "media/gallery/g02.webp",
-      "prompt": "close-up of a woman made of transparent oriental porcelain glass covered in colourful wild flowers",
-      "styleCode": "--sref 3829105537"
+      "prompt": "A lavish living room with high ceilings, featuring a grand fireplace, velvet furniture in deep jewel tones, a large Persian rug, and modern art on the walls, natural light flooding in through tall windows, a balance of contemporary and royal aesthetics. Created using: ultra HD rendering, interior design photography, HDR lighting, editorial elegance, photorealistic textures, cinematic luxury, soft shadows",
+      "styleCode": "--sref 1604642655"
     },
     {
       "id": "g03",
       "image": "media/gallery/g03.webp",
-      "prompt": "Crazy golem laughing as a small bird lands on him in mossy ruins",
-      "styleCode": "--sref 4114401360"
+      "prompt": "Extreme close up portrait of Obanai Iguro emerging from complete darkness. Half his face is illuminated by cold purple and pale yellow light, the other half lost in black shadow. Heterochromia eyes are the focal point: one glowing turquoise blue, one yellow, radiating anger and fierce determination. White bandages covering his lower face show intricate fabric texture, subtle dirt, and battle wear. Jet black hair rendered with razor sharp crystalline strands catching divine light. Face carries scars, dust, scratches, and faint blood marks. White snake Kaburamaru rests on his shoulders, glowing red eyes forward. A restrained purple serpent like aura wraps his silhouette like mist. Tiny glowing toxic purple particles drift through darkness with subtle spatial distortion. Luxury matte black background, premium anime realism, cinematic IMAX poster, Unreal Engine 5, Octane Render, HDR, ray traced lighting, volumetric atmosphere, 8K, razor sharp focus, no text, no watermark.",
+      "styleCode": "--sref 3151879059"
     },
     {
       "id": "g04",
       "image": "media/gallery/g04.webp",
-      "prompt": "Dazed magazine cover, a giant Vincent van gogh portrait sculpture is displayed, set a scene of modern art gallery, with people stop by watching the arts, white minimal decorate space, artificial lights, create a serene feeling",
-      "styleCode": "--sref 744189189"
+      "prompt": "A cinematic wide shot of the same luxury car driving through dense woods on a narrow road, surrounded by towering trees, sunlight filtering through the canopy, golden-hour hues casting long shadows, leaves swirling gently in the air, the car disappearing into the distance, creating a serene and poetic end to the journey. Created using: 8K ultra HD, cinematic photography, drone perspective, vivid details, professional lighting, photorealism, editorial quality, high-contrast visuals",
+      "styleCode": "--sref 1604642655"
     },
     {
       "id": "g05",
       "image": "media/gallery/g05.webp",
-      "prompt": "Terrified surgeon robot, tiny spider, sterile lab",
-      "styleCode": "--sref 3152317032"
+      "prompt": "A flat hand-painted watercolor illustration in rich colors on textured paper of uncluttered close-up of an uncluttered close-up of a small, beautiful white cat sleeping on a woman’s chest, the woman lying still with a softened expression, warm low indoor light, emotional focus on the cat’s closed eyes and relaxed body, intimate and peaceful composition.",
+      "styleCode": "--sref 2928549216"
     },
     {
       "id": "g06",
       "image": "media/gallery/g06.webp",
-      "prompt": "android walking in Shanghai, high angle shot, face portrait, cinematic",
-      "styleCode": "--sref 3211368754"
+      "prompt": "A serene indoor spa room with a heated pool, ambient lighting, marble walls, and plants creating a tranquil atmosphere, sunlight filtering in through skylights, soft ripples in the water adding realism and elegance. Created using: ultra-HD rendering, cinematic interior photography, luxury spa ambiance, high-detail design, HDR lighting",
+      "styleCode": "--sref 1604642655"
     },
     {
       "id": "g07",
       "image": "media/gallery/g07.webp",
-      "prompt": "cinematic shot, A wacky cool werewolf is seen through the crowd djing on the dj machine, the crowd are high and crazy for him, set a scene of a party in an haunted house, pink and teal smoke on the floor, disco ball light on the ceiling and the light is piercing through the crowd, artificial light, create a crazy and eerie atmosphere",
-      "styleCode": "--sref 1580947483"
+      "prompt": "Majestic eagle soaring through a vivid blue sky, double exposure revealing a mystical mountain landscape with blooming wildflowers inside its silhouette. Soft golden hour lighting enhances every feather, cinematic depth with dramatic shadows and highlights, photorealistic textures, eagle’s head glowing in vibrant blue and red tones. Flying above rugged mountains and a sparkling sea, clouds swirling with fog, nature and animal spirit fused, ultra-realistic, 8k cinematic painting",
+      "styleCode": "--sref 3249605102"
     },
     {
       "id": "g08",
       "image": "media/gallery/g08.webp",
-      "prompt": "close-up portrait of a woman holding a crying baby, in the style of Francis Bacon",
-      "styleCode": "--sref 2953334960"
+      "prompt": "A luxury car parked near the mansion’s entrance, with a driver in a formal uniform opening the car door, the grand façade of the house visible in the background, soft evening lighting enhancing the scene. Created using: photorealistic rendering, cinematic composition, HDR lighting, editorial luxury aesthetics, ultra-HD textures",
+      "styleCode": "--sref 1604642655"
     },
     {
       "id": "g09",
       "image": "media/gallery/g09.webp",
-      "prompt": "floating eye plant smoking incense, lo-fi shrine",
-      "styleCode": "--sref 705824372"
+      "prompt": "A regal dining hall with a long mahogany dining table, surrounded by elegant upholstered chairs, a grand crystal chandelier above, a wall of windows offering views of lush gardens, soft ambient lighting creating a warm and inviting atmosphere. Created using: hyper-realistic design, interior photography, HDR rendering, cinematic angles, editorial aesthetics, luxury decor details, vivid textures",
+      "styleCode": "--sref 1604642655"
     },
     {
       "id": "g10",
       "image": "media/gallery/g10.webp",
-      "prompt": "red foxes running through a golden meadow",
-      "styleCode": "--sref 2143830303"
-    },
-    {
-      "id": "g11",
-      "image": "media/gallery/g11.webp",
-      "prompt": "Woman's portrait in minimalist retro sci-fi style, rendered in surreal 4D depth",
-      "styleCode": "--sref 2525235269"
-    },
-    {
-      "id": "g12",
-      "image": "media/gallery/g12.webp",
-      "prompt": "A woman in a minimalist retro sci-fi environment, surrounded by hyper-realistic futuristic architecture on Mars. The scene blends surrealism and vibrant colors, creating an ethereal 4D atmosphere.",
-      "styleCode": "--sref 2525235269"
-    },
-    {
-      "id": "g13",
-      "image": "media/gallery/g13.webp",
-      "prompt": "sunday morning, cinematic shot",
-      "styleCode": "--sref 353800261"
-    },
-    {
-      "id": "g14",
-      "image": "media/gallery/g14.webp",
-      "prompt": "solitary poet writing verses made of light on a stone bridge at dawn, mist",
-      "styleCode": "--sref 1770416952"
-    },
-    {
-      "id": "g15",
-      "image": "media/gallery/g15.webp",
-      "prompt": "Cinematic sci-fi still",
-      "styleCode": "--sref 4294000000"
-    },
-    {
-      "id": "g16",
-      "image": "media/gallery/g16.webp",
-      "prompt": "A man painting a gorgeous woman in a canvas",
-      "styleCode": "--sref 4130343138"
-    },
-    {
-      "id": "g17",
-      "image": "media/gallery/g17.webp",
-      "prompt": "Something like an automaton.",
-      "styleCode": "--sref 904695486"
-    },
-    {
-      "id": "g18",
-      "image": "media/gallery/g18.webp",
-      "prompt": "EVENT/SUBJECT=Christmas\nTEXT=Merry Christmas!\nFRAME = [EVENT/SUBJECT] theme\nA [EVENT/SUBJECT] styled typography representation of \"[TEXT]\", with a focus on typical [EVENT/SUBJECT] decorations or shapes. Use typical [EVENT/SUBJECT] colors to create a sense of the [EVENT/SUBJECT]; drop cap first letter of each word. Stylistically appropriate font for rest of each word. Include [FRAME] frame",
-      "styleCode": "--sref 3319724573"
-    },
-    {
-      "id": "g19",
-      "image": "media/gallery/g19.webp",
-      "prompt": "Fantasy magic world",
-      "styleCode": "--sref 1494034390"
-    },
-    {
-      "id": "g20",
-      "image": "media/gallery/g20.webp",
-      "prompt": "Portrait of a woman",
-      "styleCode": "--sref 3399284916"
-    },
-    {
-      "id": "g21",
-      "image": "media/gallery/g21.webp",
-      "prompt": "cinematic still",
-      "styleCode": "--sref 314159265"
-    },
-    {
-      "id": "g22",
-      "image": "media/gallery/g22.webp",
-      "prompt": "solitary poet writing verses made of light on a stone bridge at dawn, mist",
-      "styleCode": "--sref 787087029"
-    },
-    {
-      "id": "g23",
-      "image": "media/gallery/g23.webp",
-      "prompt": "cinematic portrait",
-      "styleCode": "--sref 3573496488"
-    },
-    {
-      "id": "g24",
-      "image": "media/gallery/g24.webp",
-      "prompt": "cinematic portrait",
-      "styleCode": "--sref 1785529839"
-    },
-    {
-      "id": "g25",
-      "image": "media/gallery/g25.webp",
-      "prompt": "cinematic portrait",
-      "styleCode": "--sref 3973727046"
+      "prompt": "An outdoor infinity pool surrounded by manicured gardens and modern lounge furniture, a view of the mansion's grand exterior in the background, soft golden-hour lighting creating a tranquil and luxurious atmosphere. Created using: hyper-realistic rendering, editorial photography, HDR lighting, luxury outdoor design, cinematic elegance",
+      "styleCode": "--sref 1604642655"
     }
   ]
 }
