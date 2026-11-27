@@ -59,6 +59,102 @@
       "image": "media/gallery/g10.webp",
       "prompt": "An outdoor infinity pool surrounded by manicured gardens and modern lounge furniture, a view of the mansion's grand exterior in the background, soft golden-hour lighting creating a tranquil and luxurious atmosphere. Created using: hyper-realistic rendering, editorial photography, HDR lighting, luxury outdoor design, cinematic elegance",
       "styleCode": "--sref 1604642655"
+    },
+    {
+      "id": "g11",
+      "image": "media/gallery/g11.webp",
+      "prompt": "A digital illustration in a stylized, whimsical cartoon aesthetic featuring a close-up, angled portrait of a cowboy. The character has a large, worn brown cowboy hat with a notched brim, thick dark eyebrows, and a prominent, long, curled black mustache. He has expressive green eyes and a determined, slightly grumpy facial expression. He wears a brown patterned bandana around his neck and a light-colored shirt under a brown vest. The background is a soft, warm, minimalist desert-toned wash, with a hint of a green cactus visible in the upper right corner. The art style uses soft, textured brushstrokes and a warm color palette.",
+      "styleCode": "--sref 568989426 3340638833 2621619108"
+    },
+    {
+      "id": "g12",
+      "image": "media/gallery/g12.webp",
+      "prompt": "A royal beautiful futuristic cyborg queen (with brunette bob hair), looking at the camera, wearing emerald green Swarovski dress (with very subtle emerald green tiny electronic pieces in her skin made of Swarovski), in a stunning futuristic temple with greek columns, rainbow sparkles around, all in emerald green colours",
+      "styleCode": "--sref 781007819 --sref 7232024"
+    },
+    {
+      "id": "g13",
+      "image": "media/gallery/g13.webp",
+      "prompt": "A whimsical, flat-style digital illustration featuring a cluster of four white human skulls arranged against a dark, textured charcoal background. The skulls are intertwined with playful, colorful elements: a floral garland resting in the eye sockets, a small small black cat peeking out from a skull, a tiny frog sitting on a bone, and various neon-pink mushrooms. The composition is accented with emerald leafy sprigs and small shimmering bronze stars scattered throughout. The overall aesthetic is cute, spooky, and naive inspired, with a soft, grainy texture and a limited, vibrant color palette.",
+      "styleCode": "--sref 2125164599 3262659499 2374423123"
+    },
+    {
+      "id": "g14",
+      "image": "media/gallery/g14.webp",
+      "prompt": "A vibrant, cinematic scene celebrating World Press Freedom Day, depicting a diverse group of journalists standing united in a bustling newsroom, surrounded by vintage typewriters, modern laptops, and glowing holographic news feeds. The atmosphere is dynamic, with papers flying, cameras flashing, and a large globe in the background symbolizing global connectivity. The journalists hold pens and microphones as symbols of truth, with a radiant light breaking through a window, illuminating their determined faces. The style is a blend of cyberpunk and classic realism, with bold colors, intricate details, and a sense of hope and resilience",
+      "styleCode": "--sref 3180 1172 30"
+    },
+    {
+      "id": "g15",
+      "image": "media/gallery/g15.webp",
+      "prompt": "A whimsical, high-fantasy digital illustration of a small, adorable baby dragon sleeping peacefully on a fluffy, cloud-like surface. The background features a dreamy sunset sky with warm orange and golden light, filled with floating, magical bubbles that contain tiny glowing stars. The overall atmosphere is ethereal, magical, and serene, with soft, glowing lighting and a highly detailed, painterly texture.",
+      "styleCode": "--sref 1604871430 769808313"
+    },
+    {
+      "id": "g16",
+      "image": "media/gallery/g16.webp",
+      "prompt": "The cover of the book \"IN THE NAME OF LOVE,\" illustrated in the style of John Blanche, features two characters in love, set against an ancient city backdrop. The illustration style is cartoonish and colorful, with detailed lines and soft colors. In the foreground, a young man dressed as a medieval prince with brown hair looks at his beautiful wife, who has short, white, curly bob hair. On their sides, there's a dreamy landscape filled with floating islands.",
+      "styleCode": "--sref 4192973212 1124735841 4190833449 3165454417::0.6"
+    },
+    {
+      "id": "g17",
+      "image": "media/gallery/g17.webp",
+      "prompt": "high fantasy styled illustration of a vivid red cardinal perched on a delicate snow-covered branch, intricate iridescent holographic glitter textures shimmering across its feathers and the falling snowflakes, luminous rainbow color palette against a deep midnight-blue night sky, graceful snowflakes drifting through the scene, a vast swirling sky filled with magical aurora-like currents and sparkling stars, elegant composition, ethereal winter atmosphere, radiant rim lighting, richly detailed, polished fantasy storybook art",
+      "styleCode": "--sref 2062613551 4190738403"
+    },
+    {
+      "id": "g18",
+      "image": "media/gallery/g18.webp",
+      "prompt": "Fantasy illustration of a majestic, oversized reindeer with a lit candle perched on each tip of its sweeping antlers, standing in a shadowy enchanted forest. Flickering flames cast warm golden light across its fur and illuminate drifting mist, contrasting with deep blacks, muted charcoal tones, and subtle crimson accents; intricate fur and antler details, dramatic chiaroscuro, haunting gothic atmosphere, richly textured painterly illustration, cinematic composition.",
+      "styleCode": "--sref 2260070753 2766496143"
+    },
+    {
+      "id": "g19",
+      "image": "media/gallery/g19.webp",
+      "prompt": "A digital illustration in a whimsical, cartoon style featuring a cute, chubby green frog with a light-colored belly. The frog has a happy expression with its eyes closed and its tongue sticking out. Above the frog's head is a speech bubble containing a small red heart. The background is a muted olive green with a subtle halftone dot texture. The art style uses clean, bold outlines and soft, flat coloring.",
+      "styleCode": "--sref 1491902504 1792387994"
+    },
+    {
+      "id": "g20",
+      "image": "media/gallery/g20.webp",
+      "prompt": "A fantastical flamingo oasis, with elegant flamingos wading through glossy, crystal-clear water beneath lush palm trees; shimmering reflections, sparkling glittering highlights, iridescent tropical colors, and a dreamy magical atmosphere. Wide, immersive composition, soft luminous sunset light, intricate feather and foliage details, polished glossy textures, enchanting high-fantasy illustration.",
+      "styleCode": "--sref 3273056040 1745051692 1717416030"
+    },
+    {
+      "id": "g21",
+      "image": "media/gallery/g21.webp",
+      "prompt": "A whimsical illustration of a small, spotted fawn standing in a lush, vibrant meadow. The fawn is positioned in the center, surrounded by dense, stylized green foliage, small yellow wildflowers, and tiny ladybugs. Several orange butterflies flutter around the fawn, and a soft, glowing sun peeks over the horizon in the background.",
+      "styleCode": "--sref 1241409146 224672067 96247994"
+    },
+    {
+      "id": "g22",
+      "image": "media/gallery/g22.webp",
+      "prompt": "An elegant peach rose edged with delicate gold leaf, a tiny ladybug perched on one velvety petal, rendered as a refined fantasy illustration. Luminous dewdrops, glossy petal surfaces, and glowing sparkling particles shimmer in the air; whimsical enchanted nature, intricate botanical detail, soft golden rim light, dreamy pastel palette, graceful close-up composition.",
+      "styleCode": "--sref 641174673 1673404755 2850100206"
+    },
+    {
+      "id": "g23",
+      "image": "media/gallery/g23.webp",
+      "prompt": "A digital painting of a raven in profile, facing left, set against a twilight sky with soft deep indigo and magenta hues. The raven has dark, iridescent feathers with highlights of blue light reflecting off its plumage. It holds a glowing, five-pointed star by a thin string in its beak. The star emits a bright, warm light that illuminates the bird's chest and beak. The background features a starry night sky, creating a mystical and ethereal atmosphere.",
+      "styleCode": "--sref 1797736231 4192983240"
+    },
+    {
+      "id": "g24",
+      "image": "media/gallery/g24.webp",
+      "prompt": "A digital illustration of a red fox curled up and sleeping peacefully on a patch of mossy ground. The fox has soft, textured fur and its tail is tucked around its body. Surrounding the fox are several glowing, ethereal golden butterflies with translucent wings, leaving faint light trails behind them. The background is a deep, dark blue night sky filled with tiny, sparkling fireflies or stars. The ground is dotted with small, colorful wildflowers, and the overall atmosphere is magical, serene, and whimsical, rendered in a vibrant, painterly art style.",
+      "styleCode": "--sref 413138955 1043017202 1768117525"
+    },
+    {
+      "id": "g25",
+      "image": "media/gallery/g25.webp",
+      "prompt": "A delightfully bizarre, silly illustration of Santa Claus, dressed in his classic red suit but with wildly oversized boots, tangled candy-cane antlers, and a sack overflowing with mischievous tiny aliens and squeaky toys. He rides a giant rubber duck through a swirl of presents and glittering snow, with exaggerated cartoon expressions, playful visual chaos, bold festive colors, whimsical hand-drawn details, and soft storybook lighting.",
+      "styleCode": "--sref 1958915521 935019873"
+    },
+    {
+      "id": "g26",
+      "image": "media/gallery/g26.webp",
+      "prompt": "An intricate macro close-up of a fuzzy bumblebee gathering pollen from a vibrant flower, its delicate wings and pollen-dusted legs sharply detailed. Whimsical fantasy illustration with luminous petals, tiny sparkling motes, an enchanted garden softly blurred in the background, warm golden light, rich colors, elegant textures, and a magical, storybook atmosphere.",
+      "styleCode": "--sref 1299744457 4181687380 3689056741"
     }
   ]
 }
