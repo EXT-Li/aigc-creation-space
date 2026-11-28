@@ -155,6 +155,96 @@
       "image": "media/gallery/g26.webp",
       "prompt": "An intricate macro close-up of a fuzzy bumblebee gathering pollen from a vibrant flower, its delicate wings and pollen-dusted legs sharply detailed. Whimsical fantasy illustration with luminous petals, tiny sparkling motes, an enchanted garden softly blurred in the background, warm golden light, rich colors, elegant textures, and a magical, storybook atmosphere.",
       "styleCode": "--sref 1299744457 4181687380 3689056741"
+    },
+    {
+      "id": "g27",
+      "image": "media/gallery/g27.webp",
+      "prompt": "A studio product shot featuring two spherical disco balls shaped like a pair of cherries, complete with metallic silver stems and a single glossy green leaf attached at the top. The cherries are resting on a reflective black-and-white checkered surface. The background is a solid, vibrant lime green, creating a high-contrast, pop-art aesthetic with sharp lighting and clear reflections on the mirrored surfaces of the disco balls.",
+      "styleCode": "--sref 1247378789"
+    },
+    {
+      "id": "g28",
+      "image": "media/gallery/g28.webp",
+      "prompt": "Six skulls arranged side by side in a balanced, evenly spaced composition, each with distinct succulents sprouting from the crown--varied rosette shapes, fleshy leaves, and subtle natural colors. Intricate bone texture and fine cracks, elegant botanical-meets-gothic still life, soft directional studio lighting, muted earthy palette, crisp detail, clean neutral background.",
+      "styleCode": "--sref 444248313 1671175486 2556374188"
+    },
+    {
+      "id": "g29",
+      "image": "media/gallery/g29.webp",
+      "prompt": "Hand-drawn colorful illustration with playful, blobby ink outlines: a vintage apothecary potion bottle sealed with a cork, centered in the composition, filled with vivid lime-green potion. Two detached eyeballs float and bob inside the liquid, one with a blue iris and one with a green iris. Add delicate glass highlights, tiny bubbles, and subtle liquid ripples; whimsical, slightly spooky storybook mood, bold clean shapes, limited vibrant palette, plain uncluttered background.",
+      "styleCode": "--sref 2492575831 1592531032"
+    },
+    {
+      "id": "g30",
+      "image": "media/gallery/g30.webp",
+      "prompt": "A glittering fantasy winter-wonderland illustration: a vivid red rose rises from sparkling, untouched snow as oversized candy canes emerge nearby, while warm twinkle lights shimmer softly in the background. Enchanting festive atmosphere, delicate crystalline details, luminous magical glow, rich red-and-white accents, dreamy depth, polished storybook artistry.",
+      "styleCode": "--sref 4027611203 742513026"
+    },
+    {
+      "id": "g31",
+      "image": "media/gallery/g31.webp",
+      "prompt": "Expressive black-and-white ink illustration of a powerful horse galloping across an open desert, dynamic low-angle composition with sweeping dunes and distant mesas, mane and tail streaming in the wind, crisp linework, bold brush strokes, intricate cross-hatching, dramatic contrasts of light and shadow, dust swirling beneath its hooves, stark minimalist atmosphere, no color.",
+      "styleCode": "--sref 213419130 2736506965"
+    },
+    {
+      "id": "g32",
+      "image": "media/gallery/g32.webp",
+      "prompt": "A stylized, high-contrast illustration of a wizard character, centered against a plain off-white background. The wizard has a massive, thick, textured black beard that dominates the lower portion of the frame. He wears a tall, pointed wizard hat decorated with white stars and a pair of round, orange-rimmed goggles. The art style mimics a woodcut or screen-print aesthetic with heavy black ink hatching and cross-hatching. The overall look is whimsical, bold, and graphic.",
+      "styleCode": "--sref 2956612375 3222872117 3596298833"
+    },
+    {
+      "id": "g33",
+      "image": "media/gallery/g33.webp",
+      "prompt": "A stylized, illustrative portrait of Medusa centered against a vibrant turquoise background. The subject has ash gray skin, a nose ring, and an intense, angry expression with wide, piercing eyes and gritted teeth. Her hair is composed of a chaotic, vibrant tangle of snakes in various colors including cyan, indigo, teal, and lavender, featuring diverse patterns like spots and stripes. The art style is bold, graphic, and expressive, utilizing thick brushstrokes and a high-contrast, saturated color palette.",
+      "styleCode": "--sref 1100845245 2240832430 3050674342"
+    },
+    {
+      "id": "g34",
+      "image": "media/gallery/g34.webp",
+      "prompt": "Extreme close-up, macro shot of a grotesque, pale teal-skinned monster or alien creature. The subject features heavily textured, wrinkled skin with scattered small, bright pink bumps or warts. It has large, realistic-looking eyes with visible irises, a wide, flat nose, and a gaping mouth with thick, vibrant pink lips and two prominent, rectangular white teeth protruding from the upper jaw. The lighting is soft and even, highlighting the rubbery, organic texture of the creature's face.",
+      "styleCode": "--sref 1469345151 3832295 2125164599"
+    },
+    {
+      "id": "g35",
+      "image": "media/gallery/g35.webp",
+      "prompt": "Black line art on a clean white background: a friendly, expressive dragon holding a steaming coffee mug in its claws, with finely detailed scales, curved horns, and a curled tail. Crisp, confident ink outlines, balanced centered composition, subtle whimsical character, no shading or color.",
+      "styleCode": "--sref 7931550290"
+    },
+    {
+      "id": "g36",
+      "image": "media/gallery/g36.webp",
+      "prompt": "Extreme close-up illustration of a tiny caterpillar resting on a horse’s nose, the velvety muzzle filling nearly the entire frame with delicate whiskers and soft skin texture in crisp focus. The rest of the horse’s face melts into a softly blurred background, with gentle natural light, a calm whimsical mood, subtle colors, and fine painterly detail.",
+      "styleCode": "--sref 3465975336 1632499533 2208675465"
+    },
+    {
+      "id": "g37",
+      "image": "media/gallery/g37.webp",
+      "prompt": "Cute, charming cat dressed as a mailman, wearing a neat blue postal uniform and cap, carrying a mailbag filled with letters, standing proudly with a friendly expression. Whimsical storybook illustration, expressive details, clean soft lines, warm pastel colors, gentle lighting, simple uncluttered background.",
+      "styleCode": "--sref 1810350208 2404594348"
+    },
+    {
+      "id": "g38",
+      "image": "media/gallery/g38.webp",
+      "prompt": "a whimsical cartoon-style illustration of a fat, grumpy old cat lounging in an oversized wooden rocking chair, wearing worn denim overalls, clutching a classic martini glass with an olive, short legs and fluffy feet dangling far above the floor because the chair is too tall, cozy indoor setting, warm soft lighting, gentle shadows, clean simple background",
+      "styleCode": "--sref 1414022 465109893 1560517318"
+    },
+    {
+      "id": "g39",
+      "image": "media/gallery/g39.webp",
+      "prompt": "A flat, stylized illustration featuring three dogs of different colors-black, tan, and white-layered in a vertical composition against a soft pink background. The dogs are depicted in profile, wearing simple green and yellow sweaters, and are surrounded by whimsical, hand-drawn botanical elements including blue cornflowers, red berries, and various green leafy stems. The art style is minimalist and folk-inspired, utilizing bold, solid colors, clean outlines, and a textured, screen-printed aesthetic.",
+      "styleCode": "--sref 732348703 4042943940 2019988458"
+    },
+    {
+      "id": "g40",
+      "image": "media/gallery/g40.webp",
+      "prompt": "Silly chihuahua caricature hand-drawn portrait, close-up centered composition, oversized ears and expressive eyes, wearing a slightly crooked ornate crown with a playful regal expression. Wonky, wobbly lines and charming imperfect shapes, vintage distressed risograph style, limited nostalgic color palette, layered slightly misregistered inks, visible halftone grain, textured paper, distressed print marks, and soft ink bleeds; warm, whimsical mood.",
+      "styleCode": "--sref 2986386892 1524165646"
+    },
+    {
+      "id": "g41",
+      "image": "media/gallery/g41.webp",
+      "prompt": "A charming illustrated scene of a turtle perched on a smooth river rock, gazing curiously at a frog resting on a lily pad nearby. Compose the subjects in a peaceful freshwater setting with gentle ripples, soft reflections, and delicate aquatic plants; use warm natural light, rich yet soothing colors, expressive details, and a whimsical storybook style.",
+      "styleCode": "--sref 2344463657 2458935905"
     }
   ]
 }
